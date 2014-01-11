@@ -1,4 +1,4 @@
-0.8.2 / 2013-01-03
+0.8.2 / 2014-01-03
 =================
 * fix session kick bug issue #355
 * fix add rpc filter bug
